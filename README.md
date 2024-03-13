@@ -1,6 +1,6 @@
-# Site de Teste - Aula de Front End
+# Atendimento on-line - Aula de Front End
 
-Este é um site teste criado para a aula de Front End, utilizando HTML para estruturação e Tailwind CSS para estilização.
+Este é um site teste criado para a aula de Front End, utilizando HTML para estruturação e CSS para estilização.
 
 ## Aluno
 
@@ -12,12 +12,12 @@ Este é um site teste criado para a aula de Front End, utilizando HTML para estr
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um curso de Front End, com o objetivo de praticar os conceitos de HTML e aprender a utilizar o Tailwind CSS para estilização.
+Este projeto foi desenvolvido como parte de um curso de Front End, com o objetivo de praticar os conceitos de HTML e aprender a utilizar o CSS para estilização.
 
 ## Tecnologias Utilizadas
 
 - HTML
-- Tailwind CSS
+-  CSS
 
 ## Como Usar
 
@@ -26,4 +26,4 @@ Este projeto foi desenvolvido como parte de um curso de Front End, com o objetiv
 git clone https://github.com/Guzzatti/front-end-aula2
 
 
-2. Abra o arquivo `index.html` em seu navegador web.
+2. Abra a pasta "Chat de Atendimento", depois abra com o Live Server o arquivo `index.html` em seu navegador web.
