@@ -1,0 +1,22 @@
+.chat-box {
+  height: 300px;
+  overflow-y: auto; 
+  padding-bottom: 20px; 
+  margin-bottom: 20px; 
+}
+
+
+.chat-box::-webkit-scrollbar {
+  width: 10px; 
+}
+
+
+.chat-box::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3); 
+  border-radius: 5px; 
+}
+
+
+.chat-box::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.5); 
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Interface de Chat</title>
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+<link rel="stylesheet" href="estilosV2.css">
+</head>
+<body class="bg-gray-100">
+
+<div class="container mx-auto my-8 px-4">
+  <div class="bg-white rounded-lg shadow-lg p-4">
+    <div class="text-lg font-semibold mb-4">
+      Atendimento on-line 
+    </div>
+    <div id="chat-box" class="overflow-y-auto max-h-80 mb-4 flex flex-col-reverse chat-box">
+    </div>
+    
+    <div class="flex">
+      <input type="text" id="user-input" class="flex-grow p-2 rounded-l-lg border border-gray-300" placeholder="Digite sua mensagem...">
+      <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-r-lg" onclick="enviarMensagem()">Enviar</button>
+      <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 ml-2" onclick="limparHistorico()">Limpar histórico</button>
+    </div>
+  </div>
+</div>
+
+<script src="chatV2.js"></script>
+
+</body>
+</html>
