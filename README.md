@@ -26,7 +26,7 @@ Este é um site teste criado para a aula de Front End, utilizando HTML para estr
 
 1. Clone este repositório:
 
-git clone https://github.com/Guzzatti/front-end-aula2
+git clone https://github.com/Guzzatti/front-end-chat
 
 
 2. Abra a pasta "Chat Novo", depois abra com o Live Server o arquivo `indexV2.html` em seu navegador web.
