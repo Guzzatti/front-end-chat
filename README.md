@@ -12,7 +12,7 @@ Este é um site teste criado para a aula de Front End, utilizando HTML para estr
 
 ## Sobre o Projeto
 
-**V1:** Praticar os conceitos de HTML e aprender a utilizar o CSS para estilização. Chat básico
+**V1:** Praticar os conceitos de HTML e aprender a utilizar o CSS para estilização. Chat básico <br>
 **V2:** Atualização do projeto para praticar o uso de JavaScript. Chat Funcional
 
 ## Tecnologias Utilizadas
